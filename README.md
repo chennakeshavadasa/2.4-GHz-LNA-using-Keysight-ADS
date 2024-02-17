@@ -21,6 +21,13 @@ The project involves the following key steps:
 7. Output VSWR: 1.30 : 1
 8. Power Output (@ 1-dB Gain Compression): +10 dBm (minimum)
 
+## Goals
+1. Unconditional stability over wide bandwidth (atleast 1 GHz).
+2. Harmonious Gain (>30dB) and minimum Noise figure (<2dB).
+3. Ensure best input and output matching circuit.
+4. Wide Band Operatability of the LNA.
+5. Minimize the NFmin.
+   
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
