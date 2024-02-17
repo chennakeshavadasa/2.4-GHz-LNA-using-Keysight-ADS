@@ -12,14 +12,14 @@ The project involves the following key steps:
 
 ## Specification
 
-1. Frequency: 2.4GHz
-2. Gain: >30dB
-3. Noise Figure: <2dB
-4. Temperature Range: 0 to +60 °C
-5. Output Third Order Intercept (OIP3): +20 dBm (minimum)
-6. Input VSWR: 1.30 : 1
-7. Output VSWR: 1.30 : 1
-8. Power Output (@ 1-dB Gain Compression): +10 dBm (minimum)
+- Frequency: 2.4GHz
+- Gain: >30dB
+- Noise Figure: <2dB
+- Temperature Range: 0 to +60 °C
+- Output Third Order Intercept (OIP3): +20 dBm (minimum)
+- Input VSWR: 1.30 : 1
+- Output VSWR: 1.30 : 1
+- Power Output (@ 1-dB Gain Compression): +10 dBm (minimum)
 
 ## Goals
 - Unconditional stability over wide bandwidth (atleast 1 GHz).
