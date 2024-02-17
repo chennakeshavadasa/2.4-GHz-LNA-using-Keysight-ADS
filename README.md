@@ -1,11 +1,6 @@
 # 2.4 GHz LNA using Keysight ADS
 
 This repository contains a project for designing a Low Noise Amplifier (LNA) operating at 2.4 GHz frequency. The purpose of this project is to gain practical experience in RF circuit design and to understand the fundamentals of LNA design for future C band LNA design.
-
-## Team 
-
-1. [Lokesh Kumar](https://www.linkedin.com/in/lokesh-kumar-b373ba229/).
-2. [Nithin P](https://www.linkedin.com/in/nithin-purushothama-70664727b/).
    
 ## Project Overview
 
