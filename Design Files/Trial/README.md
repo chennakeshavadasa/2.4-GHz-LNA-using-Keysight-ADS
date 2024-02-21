@@ -34,5 +34,22 @@ Here i have tried to simulate every devices to find which has min NF and good Ga
 |  29 | pf_mwt_MWT_370HP_19931015  | 0.361 dB        | 10.940 dB      | 0.596 dB       | 9.761 dB     |
 |  30 | pf_mwt_MWT_470LN_19931015  | 0.870 dB        | 9.019 dB       | 1.423 dB       | 7.476 dB     |
 |  31 | pf_mwt_MWT_671HP_19931015  | 0.866 dB        | 12.890 dB      | 1.396 dB       | 9.086 dB     |
-|  32 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  33 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  32 | pf_mwt_MWT_770HP_19931015  | 0.315 dB        | 10.165 dB      | 0.522 dB       | 9.470 dB     |
+|  33 | pf_mwt_MWT_770LN_19931020  | 0.809 dB        | 11.982 dB      | 1.330 dB       | 10.992 dB    |
+|  34 | pf_mwt_MWT_773HP_19931015  | 0.709 dB        | 10.784 dB      | 1.172 dB       | 9.609 dB     |
+|  35 | pf_mwt_MWT_871HP_19931015  | 0.359 dB        | 12.472 dB      | 0.594 dB       | 8.715 dB     |
+|  36 | pf_mwt_MWT_971_19931020    | 0.256 dB        | 14.463dB       | 0.424 dB       | 11.38.3 dB   |
+|  37 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  38 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  39 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  40 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  41 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  39 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  42 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  43 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  44 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  45 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  46 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  47 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+
+
