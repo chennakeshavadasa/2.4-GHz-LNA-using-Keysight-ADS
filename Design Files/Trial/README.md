@@ -55,11 +55,11 @@ Here i have tried to simulate every 65 RF Transistor devices to find which has m
 |  50 | pf_nec_NE76184A_19921216   | 0.755 dB        | 13.161 dB      | 1.219 dB       | 11.865 dB    |
 |  51 | pf_nec_NE900075_19931018   | 0.723 dB        | 8.272 dB       | 1.182 dB       | 5.937 dB     |
 |  52 | pf_nec_NE900175_19931018   | 0.737 dB        | 11.002 dB      | 1.209 dB       | 7.746 dB     |
-|  53 | pf_nec_NE900275_19931018   | 2.092 dB        | 7.997 dB       | 3.072 dB       | 2.426 dB     |
-|  54 | pf_oki_KGF1305_19931020    | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  55 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  56 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  57 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  53 | pf_nec_NE900275_19931018   | 1.203 dB        | 12.563 dB      | 1.921 dB       | 9.370 dB     |
+|  54 | pf_oki_KGF1305_19931020    | 2.092 dB        | 7.997 dB       | 3.072 dB       | 2.426 dB     |
+|  55 | pf_sms_CFY19_18_19921216   | 0.967 dB        | 9.125 dB       | 1.555 dB       | 8.612 dB     |
+|  56 | pf_sms_CFY25_17_19921216   | 0.240 dB        | 10.139 dB      | 0.395 dB       | 10.055 dB    |
+|  57 | pf_sms_CFY30_19931018      | 1.744 dB        | 8.071 dB       | 1.665 dB       | 7.301 dB     |
 |  58 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  59 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  60 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
