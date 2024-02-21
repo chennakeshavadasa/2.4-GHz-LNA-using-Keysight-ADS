@@ -1,0 +1,6 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HOME/RF_Transistors_vendor_kit/lib.defs
+DEFINE trial_lib trial_lib
+ASSIGN trial_lib libMode shared
+DEFINE trial8_lib trial8_lib
+ASSIGN trial8_lib libMode shared

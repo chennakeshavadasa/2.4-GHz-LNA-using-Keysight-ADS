@@ -1,0 +1,35 @@
+; Top Design: "trial_lib:pf_tsb_S8837A_19931021-trial65:schematic"
+; Netlisted using Hierarchy Policy: "Standard"
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="trial_lib:pf_tsb_S8837A_19931021-trial65:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+Short:DC_Feed2  N__9 N__2 Mode=-1 
+Short:DC_Feed1  N__5 N__8 Mode=-1 
+V_Source:SRC2  N__5 0 Type="V_DC" Vdc=3 V SaveCurrent=1 
+V_Source:SRC1  N__2 0 Type="V_DC" Vdc=-0.4 V SaveCurrent=1 
+Short:DC_Block2  N__8 N__4 Mode=1 
+Short:DC_Block1  N__3 N__9 Mode=1 
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=yes SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=0.5 GHz Stop=6 GHz Step=0.1 GHz 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+#load "python","LinearCollapse"
+Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
+
+Options:Options1 Temp=16.85 TopologyCheck=yes ForceS_Params=yes GiveAllWarnings=yes ForceM_Params=yes  \
+InitialGuessAnnotation=0 TopologyCheckMessages=no doDeltaAC=no ReduceSPortRatio=0.5 WarnSOA=yes  \
+MaxWarnSOA=5 Census=no MinNodalR=1e-2 Ohm LargeCapThreshold=1e-3 F EnableAssertChecks=no EnableSpareRemoval=no 
+
+aele Mu1=mu(S);
+aele MuPrime1=mu_prime(S);
+Port:TermG1  N__3 0 Num=1 Z=50 Ohm Noise=yes 
+Port:TermG2  N__4 0 Num=2 Z=50 Ohm Noise=yes 
+#uselib "RfTransistorLibrary" , "pf_tsb_S8837A_19931021"
+pf_tsb_S8837A_19931021:A65  N__8 N__9 0 
