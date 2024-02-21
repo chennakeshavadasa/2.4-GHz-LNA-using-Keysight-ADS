@@ -4,10 +4,6 @@
 
 This repository contains a project for designing a Low Noise Amplifier (LNA) operating at 2.4 GHz frequency. The purpose of this project is to gain practical experience in RF circuit design and to understand the fundamentals of LNA design for future C band LNA design.
 
-## Team behind the Project:
-- [Lokesh Kumar](https://www.linkedin.com/in/lokesh-kumar-b373ba229/)
-- [Nithin P](https://www.linkedin.com/in/nithin-purushothama-70664727b/)
-
 ## Project Overview
 
 The project involves the following key steps:
@@ -34,6 +30,11 @@ The project involves the following key steps:
 - Ensure best input and output matching circuit.
 - Wide Band Operatability of the LNA.
 - Minimize the NFmin.
+
+  ## Team behind the Project:
+- [Lokesh Kumar](https://www.linkedin.com/in/lokesh-kumar-b373ba229/)
+- [Nithin P](https://www.linkedin.com/in/nithin-purushothama-70664727b/)
+
    
 ## License
 
