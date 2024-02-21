@@ -17,7 +17,7 @@ Here I have tried to simulate every 65 RF Transistor devices to find which has m
 |  12 | pf_mit_MGF1304A_19921216   | 0.526 dB        | 5.006 dB       | 0.871 dB       | 5.016 dB     |
 |  13 | pf_mit_MGF1305_19921216    | 0.285 dB        | 9.702 dB       | 0.470 dB       | 9.598 dB     |
 |  14 | pf_mit_MGF1402_19921216    | 0.683 dB        | 12.990 dB      | 1.131 dB       | 12.222 dB    |
-|  15 | pf_mit_MGF1403_19921216    | 0383 dB         | 11.598 dB      | 0.630 dB       | 11.105 dB    |
+|  15 | pf_mit_MGF1403_19921216    | 0.383 dB        | 11.598 dB      | 0.630 dB       | 11.105 dB    |
 |  16 | pf_mit_MGF1412_19931022    | 1.114 dB        | 14.151 dB      | 1.369 dB       | 13.127 dB    |
 |  17 | pf_mit_MGF1423_19931015    | 0.630 dB        | 9.543 dB       | 1.025 dB       | 7.750 dB     |
 |  18 | pf_mit_MGF1425_19921216    | 0.369 dB        | 11.679 dB      | 0.608 dB       | 11.337 dB    |
