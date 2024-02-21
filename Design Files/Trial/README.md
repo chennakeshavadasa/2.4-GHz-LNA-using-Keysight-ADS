@@ -57,5 +57,17 @@ Here i have tried to simulate every devices to find which has min NF and good Ga
 |  52 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  53 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  54 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  55 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  56 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  57 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  58 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  59 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  60 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  61 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  62 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  63 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  64 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  65 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+
 
 
