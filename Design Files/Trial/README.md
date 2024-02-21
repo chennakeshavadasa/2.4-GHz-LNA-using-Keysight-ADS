@@ -23,16 +23,16 @@ Here i have tried to simulate every devices to find which has min NF and good Ga
 |  18 | pf_mit_MGF1425_19921216    | 0.369 dB        | 11.679 dB      | 0.608 dB       | 11.337 dB    |
 |  19 | pf_mit_MGF1801_19931015    | 0.361 dB        | 13.274 dB      | 0.593 dB       | 10.258 dB    |
 |  20 | pf_mit_MGF1902B_19921216   | 0.604 dB        | 12.471 dB      | 0.998 dB       | 11.726 dB    |
-|  21 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  22 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  23 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  24 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  25 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  26 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  27 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  28 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  29 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  30 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  21 | pf_mit_MGF1903B_19931018   | 0.509 dB        | 10.425 dB      | 0.838 dB       | 9.257 dB     |
+|  22 | pf_mit_MGF2148_19931019    | 0.923 dB        | 7.694 dB       | 1.514 dB       | 3.857 dB     |
+|  23 | pf_mit_MGF2407A_19931018   | 1.594 dB        | 10.884 dB      | 2.740 dB       | 7.147 dB     |
+|  24 | pf_mit_MGF2415A_19931015   | 1.787 dB        | 10.907 dB      | 2.904 dB       | 5.879 dB     |
+|  25 | pf_mit_MGF2430A_19931015   | 1.480 dB        | 9.756 dB       | 2.413 dB       | 5.108 dB     |
+|  26 | pf_mwt_MWT_170_19931015    | 0.123 dB        | 15.933 dB      | 0.202 dB       | 13.565 dB    |
+|  27 | pf_mwt_MWT_270_19931015    | 0.812 dB        | 14.129 dB      | 0.931 dB       | 12.344 dB    |
+|  28 | pf_mwt_MWT_370HP_19931015  | 0.361 dB        | 11.010 dB      | 0.596 dB       | 9.761 dB     |
+|  29 | pf_mwt_MWT_370HP_19931015  | 0.361 dB        | 10.940 dB      | 0.596 dB       | 9.761 dB     |
+|  30 | pf_mwt_MWT_470LN_19931015  | 0.870 dB        | 9.019 dB       | 1.423 dB       | 7.476 dB     |
 |  31 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  32 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  33 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
