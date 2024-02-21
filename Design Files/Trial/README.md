@@ -54,7 +54,7 @@ Here i have tried to simulate every 65 RF Transistor devices to find which has m
 |  49 | pf_nec_NE76084_19921216    | 0.247 dB        | 7.966 dB       | 0.411 dB       | 7.979 dB     |
 |  50 | pf_nec_NE76184A_19921216   | 0.755 dB        | 13.161 dB      | 1.219 dB       | 11.865 dB    |
 |  51 | pf_nec_NE900075_19931018   | 0.723 dB        | 8.272 dB       | 1.182 dB       | 5.937 dB     |
-|  52 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  52 | pf_nec_NE900175_19931018   | 0.737 dB        | 11.002 dB      | 1.209 dB       | 7.746 dB     |
 |  53 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  54 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  55 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
