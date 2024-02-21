@@ -62,12 +62,11 @@ Here I have tried to simulate every 65 RF Transistor devices to find which has m
 |  57 | pf_sms_CFY30_19931018      | 1.744 dB        | 8.071 dB       | 1.665 dB       | 7.301 dB     |
 |  58 | pf_sms_CFY35_20_19931018   | 0.574 dB        | 4.813 dB       | 0.944 dB       | 4.951 dB     |
 |  59 | pf_sms_CFY35_23_19931018   | 0.454 dB        | 7.557 dB       | 0.742 dB       | 7.032 dB     |
-|  60 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  61 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  62 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  63 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  64 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  65 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  60 | pf_tsb_S8834_19931018      | 0.985 dB        | 7.052 dB       | 1.623 dB       | 5.169 dB     |
+|  61 | pf_tsb_S8835_19931018      | 1.2662 dB       | 1.136 dB       | 2.038 dB       | 8.854 dB     |
+|  62 | pf_tsb_S8835B_19931018     | 1.306 dB        | 8.142 dB       | 2.123 dB       | 4.123 dB     |
+|  63 | pf_tsb_S8836A_19931018     | 1.982 dB        | 5.336 dB       | 3.206 dB       | 0.553 dB     |
+|  64 | pf_tsb_S8837A_19931021     | 1.416 dB        | 2.501 dB       | 2.309 dB       | -2.452 dB    |
 
 
 
