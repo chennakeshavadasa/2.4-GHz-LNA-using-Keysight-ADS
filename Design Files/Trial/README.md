@@ -11,7 +11,7 @@ Here i have tried to simulate every devices to find which has min NF and good Ga
 |  6  | pf_hp_ATF26884_19931015    | 0.370 dB        | 9.357 dB       | 0.607 dB       | 8.776 dB     |
 |  7  | pf_mit_MGF0904A_19931015   | 1.573 dB        | 6.942 dB       | 3.236 dB       | 2.571 dB     |
 |  8  | pf_mit_MGF0905A_19931019   | 2.771 dB        | -0.061 dB      | 3.362 dB       | -3.338 dB    |
-|  9  | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  9  | pf_mit_MGF0906A_19931019   | 0.973 dB        | 8.164 dB       | 1.595 dB       | 4.571 dB     |
 |  10 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  11 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  12 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
