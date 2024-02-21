@@ -1,5 +1,4 @@
-<p align="center">ॐ नमो वडक्कुमन्नाथन ॐ</p>
-<p align="center">ॐ श्रुतिस्मृतिपुराणां नामामि भगवत्पादशङ्करं लोकशङ्करं ॐ</p>
+
 
 # 2.4 GHz LNA using Keysight ADS
 
