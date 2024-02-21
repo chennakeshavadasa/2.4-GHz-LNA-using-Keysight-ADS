@@ -1,4 +1,5 @@
-Here i have tried simulating every devices to find whichh has min NF and good Gain
+Here i have tried to simulate every devices to find whichh has min NF and good Gain and below table is to simplify the noted result
+
 
 | Device name | NF at 2.4GHz | Gain at 2.4GHz |    NF at 4GHz  | Gain at 4GHz |
 |-------------|--------------|----------------|----------------|--------------|
