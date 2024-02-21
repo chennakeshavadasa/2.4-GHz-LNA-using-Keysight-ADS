@@ -60,8 +60,8 @@ Here I have tried to simulate every 65 RF Transistor devices to find which has m
 |  55 | pf_sms_CFY19_18_19921216   | 0.967 dB        | 9.125 dB       | 1.555 dB       | 8.612 dB     |
 |  56 | pf_sms_CFY25_17_19921216   | 0.240 dB        | 10.139 dB      | 0.395 dB       | 10.055 dB    |
 |  57 | pf_sms_CFY30_19931018      | 1.744 dB        | 8.071 dB       | 1.665 dB       | 7.301 dB     |
-|  58 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
-|  59 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  58 | pf_sms_CFY35_20_19931018   | 0.574 dB        | 4.813 dB       | 0.944 dB       | 4.951 dB     |
+|  59 | pf_sms_CFY35_23_19931018   | 0.454 dB        | 7.557 dB       | 0.742 dB       | 7.032 dB     |
 |  60 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  61 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  62 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
