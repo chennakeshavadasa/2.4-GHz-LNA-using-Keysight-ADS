@@ -33,6 +33,6 @@ Here i have tried to simulate every devices to find which has min NF and good Ga
 |  28 | pf_mwt_MWT_370HP_19931015  | 0.361 dB        | 11.010 dB      | 0.596 dB       | 9.761 dB     |
 |  29 | pf_mwt_MWT_370HP_19931015  | 0.361 dB        | 10.940 dB      | 0.596 dB       | 9.761 dB     |
 |  30 | pf_mwt_MWT_470LN_19931015  | 0.870 dB        | 9.019 dB       | 1.423 dB       | 7.476 dB     |
-|  31 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
+|  31 | pf_mwt_MWT_671HP_19931015  | 0.866 dB        | 12.890 dB      | 1.396 dB       | 9.086 dB     |
 |  32 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
 |  33 | Device 3                   | 1.6 dB          | 2.1 dB         | 15.5 dB        | 17.5 dB      |
