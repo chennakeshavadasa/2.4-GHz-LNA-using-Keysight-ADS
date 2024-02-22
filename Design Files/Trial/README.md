@@ -1,4 +1,6 @@
-Here I have tried to simulate every 64 RF Transistor devices to find which has min NF and good Gain and below table is to simplify the noted result
+# Simulated Result
+- Here I have tried to simulate every 64 RF Transistor devices to find which has min NF and good Gain.
+-  Below table is to simplify the noted result.
 
 
 | No  | Device name                | NFmin at 2.4GHz | Gain at 2.4GHz | NFmin at  4GHz | Gain at 4GHz |
