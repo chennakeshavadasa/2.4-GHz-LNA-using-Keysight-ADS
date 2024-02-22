@@ -1,6 +1,10 @@
 # Simulated Result
 - Here I have tried to simulate every 64 RF Transistor devices(GaAs) to find which has min NF and good Gain.
 -  Below table is to simplify the noted result.
+  # Device chosen for the design
+ - The algorith chose the below devices to be best for the design.
+  ![WhatsApp Image 2024-02-22 at 12 26 45_70691356](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/35d7b350-f488-4021-a232-206577af28c9)
+
 
 
 | No  | Device name                | NFmin at 2.4GHz | Gain at 2.4GHz | NFmin at  4GHz | Gain at 4GHz |
