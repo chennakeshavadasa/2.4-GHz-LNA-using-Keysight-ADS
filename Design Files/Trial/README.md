@@ -1,5 +1,5 @@
 # Simulated Result
-- Here I have tried to simulate every 64 RF Transistor devices to find which has min NF and good Gain.
+- Here I have tried to simulate every 64 RF Transistor devices(GaAs) to find which has min NF and good Gain.
 -  Below table is to simplify the noted result.
 
 
