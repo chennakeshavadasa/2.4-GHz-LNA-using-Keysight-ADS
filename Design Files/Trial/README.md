@@ -4,7 +4,7 @@
  ## **Device chosen for the design**
  - The ranking algorith chose the below devices to be best for the design.
    
-  ![WhatsApp Image 2024-02-22 at 12 26 45_70691356](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/35d7b350-f488-4021-a232-206577af28c9)
+![WhatsApp Image 2024-02-22 at 13 52 08_3a400d6a](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/1a1de1d9-6e0f-4fec-918f-9aae58915509)
 
 
 | No  | Device name                | NFmin at 2.4GHz | Gain at 2.4GHz | NFmin at  4GHz | Gain at 4GHz |
