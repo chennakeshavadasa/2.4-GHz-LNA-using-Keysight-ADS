@@ -6,12 +6,12 @@
  - The datasheet of the device: https://www.digchip.com/datasheets/parts/datasheet/3934/MWT-170-pdf.php
    
  - **FEATURES**
-  • 10 dB GAIN AT 12 GHz
-  • EXCELLENT FOR FEEDBACK AMPLIFIER APPLICATIONS
-  • 100 MHz TO 12 GHz
-  • 0.3 MICRON REFRACTORY METAL/GOLD GATE
-  • 630 MICRON GATE WIDTH
-  • CHOICE OF CHIP AND THREE PACKAGE TYPES
+  - 10 dB GAIN AT 12 GHz
+  - EXCELLENT FOR FEEDBACK AMPLIFIER APPLICATIONS
+  - 100 MHz TO 12 GHz
+  - 0.3 MICRON REFRACTORY METAL/GOLD GATE
+  - 630 MICRON GATE WIDTH
+  - CHOICE OF CHIP AND THREE PACKAGE TYPES
 
  - **DESCRIPTION**
 The MwT-1 is a GaAs MESFET device whose nominal quarter-micron gate length and 630 micron gate width make it ideally suited to
