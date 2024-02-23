@@ -1,6 +1,6 @@
   # **Device chosen for the design**
  - After many consideration I chose the device **pf_mwt_MWT_170_19931015**	which offers a **nFmin of 0.123 dB** and **Gain	of 15.933 dB** **at 2.4GHz**,	**nFmin of 0.202 dB**	and **Gain	of 13.565 dB at 4GHz.**
- - The datasheet of the device: https://www.digchip.com/datasheets/parts/datasheet/3934/MWT-170-pdf.php
+ - The datasheet of the device: **https://www.digchip.com/datasheets/parts/datasheet/3934/MWT-170-pdf.php**
   
  ## **Device Info:**
    
@@ -16,7 +16,7 @@
 
 ## Device Behaviour:
  - Here we can see the NFopt and Gains behaviour wrt frequency.
- - We can also see the operational temperature of the device which is less than 75° C, which perfectly fits with our specification.
+ - We can also see the **operational temperature of the device which is less than 75° C**, which perfectly fits with our specification.
 
    ![MWT-1 Device datasheet-22](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/1bf6c1dd-d839-4201-a44b-e1ceb6ab1d8c)
 
