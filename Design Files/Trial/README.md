@@ -16,7 +16,7 @@
 
 ## Device Behaviour:
  - Here we can see the NFopt and Gains behaviour wrt frequency.
- - We can also see the operational temperature of the device which is between 
+ - We can also see the operational temperature of the device which is less than 75° C, which perfectly fits with our specification.
 
    ![MWT-1 Device datasheet-22](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/1bf6c1dd-d839-4201-a44b-e1ceb6ab1d8c)
 
