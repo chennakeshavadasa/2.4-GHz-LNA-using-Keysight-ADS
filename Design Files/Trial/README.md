@@ -1,7 +1,4 @@
-# Simulated Result
-- Here I have tried to simulate every 64 RF Transistor devices(GaAs) to find which has min NF and good Gain.
- 
- ## **Device chosen for the design**
+  # **Device chosen for the design**
  - After many consideration I chose the device **pf_mwt_MWT_170_19931015**	which offers a **nFmin of 0.123 dB** and **Gain	of 15.933 dB** **at 2.4GHz**,	**nFmin of 0.202 dB**	and **Gain	of 13.565 dB at 4GHz.**
  - The datasheet of the device: https://www.digchip.com/datasheets/parts/datasheet/3934/MWT-170-pdf.php
  - **Device Info:**
