@@ -15,7 +15,8 @@
    ![MWT-1 Device datasheet-2](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/3fe71434-0934-4685-abe4-b46827e6b2ae)
 
 ## Device Behaviour:
- - Here we can see the NFopt and Gains behaviour wrt frequency 
+ - Here we can see the NFopt and Gains behaviour wrt frequency.
+ - We can also see the operational temperature of the device which is between 
 
    ![MWT-1 Device datasheet-22](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/1bf6c1dd-d839-4201-a44b-e1ceb6ab1d8c)
 
