@@ -6,7 +6,7 @@
  - The datasheet of the device: https://www.digchip.com/datasheets/parts/datasheet/3934/MWT-170-pdf.php
  - **Device Info:**
    
- ![MWT-1 Device datasheet-1](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/a55ae7e9-4341-42cb-9a3e-cbd551bcb890)
+   ![MWT-1 Device datasheet-1](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/a55ae7e9-4341-42cb-9a3e-cbd551bcb890)
 
  - **Device Circuit:**
 
