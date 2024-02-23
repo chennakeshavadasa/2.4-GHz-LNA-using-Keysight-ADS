@@ -1,4 +1,8 @@
-# This is Trial files to Check NFmin for the LNA
+
+# Simulated Result
+- Here I have tried to simulate every 64 RF Transistor devices(GaAs) to find which has min NF and good Gain.
+  
+## This is Trial files to Check NFmin for the LNA
 
 ## Link for Complete Workspace ZIP Folder 
 https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/blob/main/Design%20Files/Trial/Trial%20files/trial_wrk.zip
