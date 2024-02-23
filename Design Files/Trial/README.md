@@ -5,10 +5,10 @@
  - After many consideration I chose the device **pf_mwt_MWT_170_19931015**	which offers a **nFmin of 0.123 dB** and **Gain	of 15.933 dB** **at 2.4GHz**,	**nFmin of 0.202 dB**	and **Gain	of 13.565 dB at 4GHz.**
  - The datasheet of the device: https://www.digchip.com/datasheets/parts/datasheet/3934/MWT-170-pdf.php
    
- - **FEATURES**
+ - **FEATURES:**
    10 dB GAIN AT 12 GHz, EXCELLENT FOR FEEDBACK AMPLIFIER APPLICATIONS, 100 MHz TO 12 GHz, 0.3 MICRON REFRACTORY METAL/GOLD GATE, 630 MICRON GATE WIDTH, CHOICE OF CHIP AND THREE PACKAGE TYPES.
 
- - **DESCRIPTION**
+ - **DESCRIPTION:**
 The MwT-1 is a GaAs MESFET device whose nominal quarter-micron gate length and 630 micron gate width make it ideally suited to
 applications requiring high-gain in the 100 MHz to 12 GHz frequency range. The straight geometry of the MwT-1 makes it equally
 effective for either wideband (e.g. 2 to 6 GHz) or narrow-band applications. The chip is produced using MwT’s reliable metal system and
