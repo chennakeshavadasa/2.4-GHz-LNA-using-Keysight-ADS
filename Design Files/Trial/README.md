@@ -10,5 +10,14 @@
 
    ![MWT-1 Device datasheet-2](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/b87d48d9-d769-410c-9d17-d8fc529ae63d)
 
+ ## Diagram:
+
+   ![MWT-1 Device datasheet-2](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/3fe71434-0934-4685-abe4-b46827e6b2ae)
+
+## Device Behaviour:
+
+   ![MWT-1 Device datasheet-22](https://github.com/chennakeshavadasa/2.4-GHz-LNA-using-Keysight-ADS/assets/123294639/1bf6c1dd-d839-4201-a44b-e1ceb6ab1d8c)
+
+
 
 
