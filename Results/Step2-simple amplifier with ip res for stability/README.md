@@ -1,4 +1,4 @@
-Step 2
+# Step 2
 This is Step2 in the design
 
 We can see that Stability factor is improved compared to step 1 so it makes the device stable but the device NFmin is degraded.
