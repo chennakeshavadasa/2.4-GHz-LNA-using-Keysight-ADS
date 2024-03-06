@@ -20,7 +20,7 @@ The project involves the following key steps:
 ## Specification
 
 - **Frequency**: 2.4GHz
-- **Gain**: >30dB or >15dB
+- **Gain**: >30dB/15dB
 - **Noise Figure**: <2dB
 - **Temperature Range**: 0 to +60 °C
 - **Output Third Order Intercept (OIP3)**: +20 dBm (minimum)
