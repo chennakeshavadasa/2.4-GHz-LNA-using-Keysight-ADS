@@ -5,11 +5,6 @@ This repository contains the project for designing a Low Noise Amplifier (LNA) o
 <br> <br>
 **Status: Ongoing**
 
-
-  ## Team behind the Project
-- [Lokesh Kumar](https://www.linkedin.com/in/lokesh-kumar-b373ba229/)
-- [Nithin P](https://www.linkedin.com/in/nithin-purushothama-70664727b/)
-
 ## Project Overview
 
 The project involves the following key steps:
